@@ -2,8 +2,6 @@
 
 Protótipo de IoT (ESP32 + HC-SR04 + DHT22) que mede o nível da água em um ponto de alagamento, decide **na borda** (normal / atenção / crítico) e publica as leituras no **ThingSpeak**.
 
-> **ANTES DE ENTREGAR:** substitua a linha do link do Wokwi abaixo pelo link do projeto salvo (Wokwi → **SAVE** → **SHARE** → copiar link). O restante já está pronto.
-
 ## Integrantes
 
 | Nome completo | RM |
@@ -14,7 +12,7 @@ Protótipo de IoT (ESP32 + HC-SR04 + DHT22) que mede o nível da água em um pon
 
 ## Links
 
-- **Wokwi (projeto funcional):** `COLE-AQUI-O-LINK-DO-WOKWI`
+- **Wokwi (projeto funcional):** https://wokwi.com/projects/481163030868505601
 - **ThingSpeak (canal público):** https://thingspeak.com/channels/3586321
 
 ## Ficha da CitizenTech
